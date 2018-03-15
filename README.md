@@ -6,7 +6,7 @@ Now from what I gather this issue arises from uneven voltage being distributed f
 
 Now this issue has been very well documented on reddit and by TH3D for the V2.0 board, however no one has posted how one can fix their V1.1.2, so this repo will basically document how I fixed mine plus a few other tidbits I leart about the V1.1.2 board. 
 
-*DISCLAIMER: I am in no way affiliated with TH3D, however they are known to be reputable in repairing this issue and are the only ones I know of offering this service*
+**DISCLAIMER: I am in no way affiliated with TH3D, however they are known to be reputable in repairing this issue and are the only ones I know of offering this service**
 
 Preface: I have flashed the bootloader to my board and installed Marlin which I highly suggest everyone do with the Melzi boards given with the Creality 3D printers (I used this tutorial: http://www.instructables.com/id/Flashing-a-Bootloader-to-the-CR-10/), I will be uploading my Marlin configurations to this github as well.
 
