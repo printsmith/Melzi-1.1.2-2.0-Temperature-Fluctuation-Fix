@@ -12,7 +12,8 @@ Preface: I have flashed the bootloader to my board and installed Marlin which I 
 
 ## How do you know if this problem affects you?
 
-The easiest way to tell if this problem affects you is to check your hotend temperature readings at room temperature. If the readings fluctuate by a few degrees then you most likely have this issue. However, you should tune your PID before and check that all wires are in properly before jumping to any conclusions. TH3D made a very good little gif showing what the flucuations look like: https://i0.wp.com/www.th3dstudio.com/wp-content/uploads/2018/01/2018-01-25_18-22-43.gif?resize=1080%2C607&ssl=1
+The easiest way to tell if this problem affects you is to check your hotend temperature readings at room temperature. If the readings fluctuate by a few degrees then you most likely have this issue. However, you should tune your PID before and check that all wires are in properly before jumping to any conclusions. TH3D made a very [good little gif](https://i0.wp.com/www.th3dstudio.com/wp-content/uploads/2018/01/2018-01-25_18-22-43.gif?resize=1080%2C607&ssl=1) showing what the flucuations look like.
+
 
 ## I have a CR-10S with a V2.0 board, what do I do?
 
