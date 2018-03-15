@@ -8,7 +8,7 @@ Now this issue has been very well documented on reddit and by TH3D for the V2.0 
 
 **DISCLAIMER: I am in no way affiliated with TH3D, however they are known to be reputable in repairing this issue and are the only ones I know of offering this service**
 
-Preface: I have flashed the bootloader to my board and installed Marlin which I highly suggest everyone do with the Melzi boards given with the Creality 3D printers (I used this tutorial: http://www.instructables.com/id/Flashing-a-Bootloader-to-the-CR-10/), I will be uploading my Marlin configurations to this github as well.
+Preface: I have flashed the bootloader to my board and installed Marlin which I highly suggest everyone do with the Melzi boards given with the Creality 3D printers (I used [this tutorial](http://www.instructables.com/id/Flashing-a-Bootloader-to-the-CR-10/)). I will be uploading my Marlin configurations to this github as well since I've made some changes and even figured out how to get a servo driven Z probe running on this board. 
 
 ## How do you know if this problem affects you?
 
@@ -17,9 +17,9 @@ The easiest way to tell if this problem affects you is to check your hotend temp
 
 ## I have a CR-10S with a V2.0 board, what do I do?
 
-This issue has been very well documented for the V2.0 board so I will refer you to Jozer99 of Jozerworx and their tutorial on how to fix it here: https://www.jozerworx.com/creality-cr-10s-c4-capacitor-diy-fix-tutorial/
+This issue has been very well documented for the V2.0 board so I will refer you to Jozer99 of Jozerworx and [their tutorial](https://www.jozerworx.com/creality-cr-10s-c4-capacitor-diy-fix-tutorial/) on how to fix it.
 
-And if you don't have the equipment and knowhow to do so, TH3D can fix the issue for you here: https://www.th3dstudio.com/product/creality-cr-10s-v2-0-board-repair-temperature-fluctuation/
+And if you don't have the equipment and knowhow to do so, TH3D can fix the issue for you [here](https://www.th3dstudio.com/product/creality-cr-10s-v2-0-board-repair-temperature-fluctuation/).
 
 ## I have a CR-10 with a V1.1.2 board, what do I do?
 
