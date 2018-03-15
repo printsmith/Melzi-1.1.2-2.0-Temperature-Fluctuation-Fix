@@ -27,5 +27,9 @@ Well as mentioned above, TH3D can fix the V2.0 board as well as the V1.1.2 board
 
 If you want to fix the issue yourself well you're in luck, follow me over [here](https://github.com/tylerkalinowicz/Melzi-1.1.2-2.0-Temperature-Fluctuation-Fix/blob/master/V1.1.2%20Fix.md) to fix the board yourself!
 
+## Extras
+
+If you want to know how I got a servo Z probe running check it out [here]
+
 
 
