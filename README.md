@@ -29,7 +29,7 @@ If you want to fix the issue yourself well you're in luck, follow me over [here]
 
 ## Extras
 
-If you want to know how I got a servo Z probe running check it out [here]
+If you want to know how I got a servo Z probe running check it out [here] (I will be adding a little bit on it soon, still in progress).
 
 
 
