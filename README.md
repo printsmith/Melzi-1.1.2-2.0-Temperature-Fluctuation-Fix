@@ -25,7 +25,7 @@ And if you don't have the equipment and knowhow to do so, TH3D can fix the issue
 
 Well as mentioned above, TH3D can fix the V2.0 board as well as the V1.1.2 board so if you're not up for doing it yourself check them out over here: https://www.th3dstudio.com/product/creality-cr-10-v112-board-repair-temperature-fluctuation/
 
-If you want to fix the issue yourself well you're in luck, follow me over [here](https://github.com/tylerkalinowicz/Melzi-1.1.2-2.0-Temperature-Fluctuation-Fix/blob/master/V1.1.2%20Fix.md) to fix the board yourself!
+If you want to fix the issue yourself well you're in luck, follow me over [here](https://github.com/tylerkalinowicz/Melzi-1.1.2-2.0-Temperature-Fluctuation-Fix/blob/master/V1.1.2%20Fix/V1.1.2%20Fix%20Tutorial.md) to fix the board yourself!
 
 ## Extras
 
