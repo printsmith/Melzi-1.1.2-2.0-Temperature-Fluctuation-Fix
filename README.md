@@ -1,5 +1,7 @@
 # Read Me!!
 
+**FOREWARNING: This involves soldering and modifying your circuit board. Do this at your own risk, I assumed no responsibility if you mess it up. It involves a small amount of soldering and you should always use safe practices such as using a fume vent or being in a well ventilated area.**
+
 If you're not aware, the Melzi 1.1.2 and 2.0 circuit boards being shipped with the CR-10 and CR-10s have an issue where the temperature sensors cannot reliably read temperatures. This leads to large fluctuations in temperature readings and the thermal runaway protection being triggered, as well as your heater not knowing what to do and trying to correct the bad readings it is getting, further throwing off your temperatures. I did not initially notice the problem when I first started printing with the CR-10 in PLA, I only noticed it when I began trying to print in PETG.
 
 Now from what I gather this issue arises from uneven voltage being distributed from the 5V regulator on the Melzi boards, which throws the thermistor readings out of whack since to read temperatures accurately they require a stable voltage being fed into them.  
